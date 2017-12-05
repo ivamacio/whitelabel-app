@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/gallery</color>
+    <color name="colorPrimaryDark">@color/silver</color>
+    <color name="colorAccent">@color/silver_sand</color>
+
+    <color name="gallery">#eaeaea</color>
+    <color name="mercury">#E6E6E6</color>
+    <color name="silver">#C8C8C8</color>
+    <color name="silver_sand">#c6c9ca</color>
+</resources>

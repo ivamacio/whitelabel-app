@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/nile_blue</color>
+    <color name="colorPrimaryDark">@color/alpha_elm</color>
+    <color name="colorAccent">@color/spectra</color>
+
+    <color name="nile_blue">#18464a</color>
+    <color name="elm">#207c68</color>
+    <color name="alpha_elm">#1E7562</color>
+    <color name="spectra">#2C575A</color>
+</resources>
