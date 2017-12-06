@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Custom colours for build flavour of default company -->
 <resources>
-    <color name="colorPrimary">@color/cerulean</color>
+    <color name="colorPrimary">@color/carnation</color>
     <color name="colorPrimaryDark">@color/moody_blue</color>
-    <color name="colorAccent">@color/carnation</color>
+    <color name="colorAccent">@color/cerulean</color>
 
     <color name="cerulean">#049CE5</color>
     <color name="moody_blue">#7986CB</color>

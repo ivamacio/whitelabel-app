@@ -25,14 +25,17 @@ android {
         defaultCompany {
             applicationId 'com.example.whitelabelapp.defaultcompany'
             dimension "api"
+            applicationIdSuffix ".defaultcompany"
         }
         companyOne {
             applicationId 'com.example.whitelabelapp.companyone'
             dimension "api"
+            applicationIdSuffix ".companyone"
         }
         companyTwo {
             applicationId 'com.example.whitelabelapp.companytwo'
             dimension "api"
+            applicationIdSuffix ".companytwo"
         }
     }
     sourceSets {
